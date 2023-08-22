@@ -1,0 +1,10 @@
+.linha {
+    display: block;
+    background-color: #C8FFAE;
+    width: 100%;
+    height: 9px;
+
+}
+body{
+    margin: 0;
+}

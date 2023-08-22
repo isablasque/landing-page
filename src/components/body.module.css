@@ -1,0 +1,24 @@
+.body {
+    display: flex;
+    margin: 0;
+}
+
+.divfoto {
+    width: 60%;
+}
+.divtexto {
+    width: 40%;
+}
+.botao {
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.icons {
+    margin-top: 70px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.icons i {
+    margin-right: 98px;
+}
